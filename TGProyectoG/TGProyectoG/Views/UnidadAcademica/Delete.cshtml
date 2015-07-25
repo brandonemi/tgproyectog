@@ -1,0 +1,25 @@
+﻿@model TGProyectoG.Data.UnidadAcademica
+
+@{
+    ViewBag.Title = "Eliminar";
+}
+
+<h2>Eliminar</h2>
+
+<h3>¿Esta seguro de eliminar esto?</h3>
+<fieldset>
+    <legend>UnidadAcademica</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Departamento)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Departamento)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Eliminar" /> |
+        @Html.ActionLink("Volver Atras", "Index")
+    </p>
+}

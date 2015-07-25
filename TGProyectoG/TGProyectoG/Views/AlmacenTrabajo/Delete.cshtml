@@ -1,0 +1,60 @@
+﻿@model TGProyectoG.Data.AlmacenTrabajo
+
+@{
+    ViewBag.Title = "Eliminar";
+}
+
+<h2>Eliminar</h2>
+
+<h3>¿Esta seguro de eliminar esto?</h3>
+<fieldset>
+    <legend>AlmacenTrabajo</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Gestion)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Gestion)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Semestre)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Semestre)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Tutor.Nombre)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Tutor.Nombre)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.UnidadAcademica.Departamento)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UnidadAcademica.Departamento)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.TrabajoGrado.TipoTrabajoGrado)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.TrabajoGrado.TipoTrabajoGrado)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Carrera.NombreCarrera)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Carrera.NombreCarrera)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Eliminar" /> |
+        @Html.ActionLink("Volver Atras", "Index")
+    </p>
+}

@@ -1,0 +1,10 @@
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Debug\TGProyectoG.Business.dll.config
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Debug\TGProyectoG.Business.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Debug\TGProyectoG.Business.pdb
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Debug\EntityFramework.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Debug\TGProyectoG.Data.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Debug\TGProyectoG.Data.pdb
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Debug\EntityFramework.xml
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyectoG.Business\obj\Debug\TGProyectoG.Business.csprojResolveAssemblyReference.cache
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyectoG.Business\obj\Debug\TGProyectoG.Business.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyectoG.Business\obj\Debug\TGProyectoG.Business.pdb

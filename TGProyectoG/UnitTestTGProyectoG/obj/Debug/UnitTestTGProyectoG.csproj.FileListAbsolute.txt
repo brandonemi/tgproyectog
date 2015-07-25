@@ -1,0 +1,9 @@
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\UnitTestTGProyectoG\bin\Debug\UnitTestTGProyectoG.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\UnitTestTGProyectoG\bin\Debug\UnitTestTGProyectoG.pdb
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\UnitTestTGProyectoG\bin\Debug\TGProyectoG.Data.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\UnitTestTGProyectoG\bin\Debug\EntityFramework.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\UnitTestTGProyectoG\bin\Debug\TGProyectoG.Data.pdb
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\UnitTestTGProyectoG\bin\Debug\EntityFramework.xml
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\UnitTestTGProyectoG\obj\Debug\UnitTestTGProyectoG.csprojResolveAssemblyReference.cache
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\UnitTestTGProyectoG\obj\Debug\UnitTestTGProyectoG.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\UnitTestTGProyectoG\obj\Debug\UnitTestTGProyectoG.pdb

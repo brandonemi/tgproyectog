@@ -1,0 +1,25 @@
+﻿@model TGProyectoG.Data.Carrera
+
+@{
+    ViewBag.Title = "Eliminar";
+}
+
+<h2>Eliminar</h2>
+
+<h3>¿Esta seguro de eliminar esta Carrera?</h3>
+<fieldset>
+    <legend>Carrera</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.NombreCarrera)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.NombreCarrera)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Volver Atras", "Index")
+    </p>
+}

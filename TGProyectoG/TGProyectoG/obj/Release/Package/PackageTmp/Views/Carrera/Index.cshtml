@@ -1,0 +1,33 @@
+﻿@model IEnumerable<TGProyectoG.Data.Carrera>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NombreCarrera)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombreCarrera)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.IdCarrera }) |
+            @Html.ActionLink("Details", "Details", new { id=item.IdCarrera }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.IdCarrera })
+        </td>
+    </tr>
+}
+
+</table>

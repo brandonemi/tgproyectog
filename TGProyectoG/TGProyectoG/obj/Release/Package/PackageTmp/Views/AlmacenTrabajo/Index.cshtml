@@ -1,0 +1,104 @@
+﻿@model TGProyectoG.Dto.AlmacenTrabajoSearchDto
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Gestion)*@
+            Gestion
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Semestre)*@
+            Semestre
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Gestion)*@
+            Titulo
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Semestre)*@
+            Resumen Ejecutivo
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Gestion)*@
+            Objetivo General
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Semestre)*@
+            Nombre autor
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Gestion)*@
+            Apellido Autor
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Tutor.Nombre)*@
+            Tutor
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.UnidadAcademica.Departamento)*@
+            Unidad Academica
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.TrabajoGrado.TipoTrabajoGrado)*@
+            Tipo de Trabajo de Grado
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Carrera.NombreCarrera)*@
+            Carrera
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.AlmacenTrabajoListResult) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gestion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Semestre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Titulo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ResumenEjecutivo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ObjetivoGeneral)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombreAutor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApellidoAutor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tutor.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UnidadAcademica.Departamento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TrabajoGrado.TipoTrabajoGrado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Carrera.NombreCarrera)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.IdAlmacenTrabajo }) |
+            @Html.ActionLink("Details", "Details", new { id=item.IdAlmacenTrabajo }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.IdAlmacenTrabajo })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,10 @@
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Dto\bin\Release\TGProyectoG.Dto.dll.config
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Dto\bin\Release\TGProyectoG.Dto.dll
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Dto\bin\Release\TGProyectoG.Dto.pdb
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Dto\bin\Release\EntityFramework.dll
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Dto\bin\Release\TGProyectoG.Data.dll
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Dto\bin\Release\TGProyectoG.Data.pdb
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Dto\bin\Release\EntityFramework.xml
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Dto\obj\Release\TGProyectoG.Dto.csprojResolveAssemblyReference.cache
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Dto\obj\Release\TGProyectoG.Dto.dll
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Dto\obj\Release\TGProyectoG.Dto.pdb

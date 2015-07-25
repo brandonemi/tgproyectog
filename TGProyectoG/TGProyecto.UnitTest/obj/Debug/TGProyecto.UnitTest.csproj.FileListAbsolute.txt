@@ -1,0 +1,14 @@
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\bin\Debug\TGProyecto.UnitTest.dll.config
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\bin\Debug\TGProyecto.UnitTest.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\bin\Debug\TGProyecto.UnitTest.pdb
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\bin\Debug\TGProyectoG.Business.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\bin\Debug\TGProyectoG.Data.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\bin\Debug\TGProyectoG.Dto.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\bin\Debug\TGProyectoG.Business.pdb
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\bin\Debug\TGProyectoG.Data.pdb
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\bin\Debug\TGProyectoG.Dto.pdb
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\obj\Debug\TGProyecto.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\obj\Debug\TGProyecto.UnitTest.dll
+C:\Users\BRANDON\documents\visual studio 2012\Projects\TGProyectoG\TGProyecto.UnitTest\obj\Debug\TGProyecto.UnitTest.pdb

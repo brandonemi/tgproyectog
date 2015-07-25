@@ -1,0 +1,10 @@
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Release\TGProyectoG.Business.dll.config
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Release\TGProyectoG.Business.dll
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Release\TGProyectoG.Business.pdb
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Release\EntityFramework.dll
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Release\TGProyectoG.Data.dll
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Release\TGProyectoG.Data.pdb
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Business\bin\Release\EntityFramework.xml
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Business\obj\Release\TGProyectoG.Business.csprojResolveAssemblyReference.cache
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Business\obj\Release\TGProyectoG.Business.dll
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Business\obj\Release\TGProyectoG.Business.pdb

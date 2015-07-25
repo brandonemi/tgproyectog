@@ -1,0 +1,39 @@
+﻿@model TGProyectoG.Data.Tutor
+
+@{
+    ViewBag.Title = "Eliminar";
+}
+
+<h2>Eliminar</h2>
+
+<h3>¿Esta seguro de eliminar esto?</h3>
+<fieldset>
+    <legend>Tutor</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Nombre)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Nombre)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Apellido)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Apellido)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Profesion)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Profesion)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Eliminar" /> |
+        @Html.ActionLink("Volver Atras", "Index")
+    </p>
+}

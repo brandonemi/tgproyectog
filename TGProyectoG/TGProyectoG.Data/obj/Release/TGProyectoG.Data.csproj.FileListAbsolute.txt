@@ -1,0 +1,7 @@
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Data\bin\Release\TGProyectoG.Data.dll.config
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Data\bin\Release\TGProyectoG.Data.dll
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Data\bin\Release\TGProyectoG.Data.pdb
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Data\bin\Release\EntityFramework.dll
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Data\bin\Release\EntityFramework.xml
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Data\obj\Release\TGProyectoG.Data.dll
+C:\Users\BRANDON\Documents\Visual Studio 2012\Projects\TGProyectoG\TGProyectoG.Data\obj\Release\TGProyectoG.Data.pdb

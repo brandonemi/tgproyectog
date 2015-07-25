@@ -1,0 +1,22 @@
+﻿@model TGProyectoG.Data.UnidadAcademica
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>UnidadAcademica</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Departamento)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Departamento)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.IdUnidadAcademica }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
